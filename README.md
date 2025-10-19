@@ -43,14 +43,7 @@ I work with my **hands, brain, and heart** — because great software is crafted
 🇩🇪 German &nbsp; 🇷🇺 Russian &nbsp; 🇨🇳 Chinese *(soon)* &nbsp; 🇵🇹 Portuguese *(soon)*  
 
 ### 💻 Deeply Learning  
-☕ Java &nbsp; 🐹 Go &nbsp; 🦋 Kotlin  
-
----
-
-### 📊 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenmenai&theme=transparent&title_color=008080&text_color=008080&layout=compact" alt="Top Languages" />
-</p>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp; </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> &nbsp; <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 
 ---
 
